@@ -54,7 +54,7 @@
   :type 'string
   :group 'sbt-mode)
 
-(defcustom sbt-arguments ""
+(defcustom sbt-arguments nil
   "Arguments to `sbt'."
   :type 'string
   :group 'sbt-mode)
