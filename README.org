@@ -1,1 +1,10 @@
-* Run "sbt" with a few comint conveniences.
+* sbt-mode
+Run [[http://www.scala-sbt.org][sbt]] with a few comint conveniences.
+
+- Basic completion for some sbt commands.
+- Yeah that's it.
+
+* Running
+- Install with ~M-x package-install-file~
+- Run with ~M-x run-sbt~
+- Hit tab and marvel momentarily.
